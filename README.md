@@ -101,3 +101,6 @@ remake controler(employee)
         ]);
     }
     php artisan db:seed --class=EmployeeSeeder
+
+
+tambah data
